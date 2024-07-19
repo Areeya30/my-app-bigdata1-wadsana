@@ -1,5 +1,5 @@
 import React from "react";
-import Evaluation from "@/component/Evaluation";
+import Evaluation from "@/components/Evaluation";
 
 export default function page() {
   return (
